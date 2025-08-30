@@ -1,4 +1,6 @@
 Donor Segmentation Dashboard Using RFM Analysis
+
+
 Introduction
 Ye project ek real-world non-profit dataset par based hai, jismein RFM (Recency, Frequency, Monetary) Analysis ka use karke donors ko alag-alag segments mein categorize kiya gaya hai. Iska objective hai ki organizations ko data-driven insights provide kiye ja sakein, taki ve apni fundraising strategies ko optimize kar sakein. Ismein data cleaning se lekar segmentation aur ek final interactive dashboard design tak ka complete workflow shamil hai.
 
